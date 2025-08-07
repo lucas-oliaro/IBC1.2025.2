@@ -35,8 +35,8 @@ respuestas = {}
 
 # %%
 respuestas[(1,0,"Moneda")] = [
-0, # 0. Cara
-0, # 1. Sello
+0.5, # 0. Cara
+0.5, # 1. Sello
 ""
 ]
 
